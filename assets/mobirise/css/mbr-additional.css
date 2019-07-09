@@ -1531,7 +1531,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #36404c;
+  background-color: #ffffff;
 }
 .cid-rvGO52CJo3 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1776,7 +1776,7 @@ body {
 }
 .cid-rvGO52CJo3 .nav-link:hover,
 .cid-rvGO52CJo3 .dropdown-item:hover {
-  color: #ed4266 !important;
+  color: #cc2952 !important;
 }
 @media (min-width: 1500px) {
   .cid-rvGO52CJo3 .navbar-toggleable-sm .navbar-collapse {
