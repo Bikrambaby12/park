@@ -1950,7 +1950,7 @@ body {
   color: #767676;
 }
 .cid-rvKPbYC02i .mbr-text {
-  color: #0066cc;
+  color: #ffffff;
 }
 .cid-rvKPYabj0s {
   padding-top: 0px;
@@ -2070,7 +2070,7 @@ body {
 }
 .cid-rvKSZARDw3 {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background: #f4b223;
 }
 .cid-rvKSZARDw3 .list-group-item {
@@ -2155,14 +2155,28 @@ body {
 .cid-rvKSZARDw3 .price-term {
   color: #767676;
 }
-.cid-rvL0DpvpmW {
+.cid-rvQO57sti3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(45deg, #f4b223, #0066cc);
+}
+.cid-rvQO57sti3 .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rvQO57sti3 H3 {
+  text-align: right;
+}
+.cid-rvQRUQNmcV {
   padding-top: 75px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-rvL0DpvpmW .mbr-overlay {
+.cid-rvQRUQNmcV .mbr-overlay {
   background-color: #ffffff;
   opacity: 0.4;
+}
+.cid-rvQRUQNmcV H4 {
+  color: #0066cc;
 }
 .cid-rvKRSwXnFv {
   padding-top: 0px;
@@ -2460,6 +2474,21 @@ body {
 }
 .cid-rvQe81ZiRT H3 {
   color: #f4b223;
+}
+.cid-rvQYnfHTJj {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #f7ed4a, #f4b223);
+}
+.cid-rvQYnfHTJj .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0066cc;
+}
+.cid-rvQYnfHTJj .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rvQYnfHTJj H2 {
+  color: #ffffff;
 }
 .cid-rvKVoj8qYi {
   padding-top: 60px;
