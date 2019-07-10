@@ -2467,6 +2467,18 @@ body {
 .cid-rvKU9nWoRr H4 {
   color: #36404c;
 }
+.cid-rvRoWP3QTL {
+  background: #ffffff;
+}
+.cid-rvRoWP3QTL .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rvRoWP3QTL .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rvQe81ZiRT {
   padding-top: 90px;
   padding-bottom: 90px;
