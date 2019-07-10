@@ -1862,14 +1862,14 @@ body {
 .cid-rvKJclNsS3 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #0066cc;
+  background-color: #ffffff;
 }
 .cid-rvKJclNsS3 .mbr-text,
 .cid-rvKJclNsS3 blockquote {
   color: #767676;
 }
 .cid-rvKJclNsS3 .mbr-text {
-  color: #f4b223;
+  color: #767676;
 }
 .cid-rvKNQdzaVu {
   padding-top: 0px;
@@ -2066,7 +2066,7 @@ body {
 }
 .cid-rvKHJEnBwp .mbr-text,
 .cid-rvKHJEnBwp .mbr-section-btn {
-  color: #ffffff;
+  color: #0066cc;
 }
 .cid-rvKSZARDw3 {
   padding-top: 60px;
@@ -2165,6 +2165,7 @@ body {
 }
 .cid-rvQO57sti3 H3 {
   text-align: right;
+  color: #0066cc;
 }
 .cid-rvQRUQNmcV {
   padding-top: 45px;
