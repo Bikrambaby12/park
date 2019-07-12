@@ -1774,28 +1774,50 @@ body {
     margin-left: 5rem;
   }
 }
-.cid-rvLoDdaxRB {
-  padding-top: 135px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/park-landing-4-1920x1080.jpg");
+.cid-rw3e99ztDn {
+  background-image: url("../../../assets/images/park-landing-2-2000x1333.jpg");
+  background-position: right;
 }
-.cid-rvLoDdaxRB H1 {
-  text-align: right;
-  color: #f4b223;
+.cid-rw3e99ztDn .wrapper {
+  position: relative;
+  border-top: 3px solid #ffffff;
+  border-right: 3px solid #ffffff;
+  border-left: 3px solid #ffffff;
+  padding: 2.5rem 2.5rem;
 }
-.cid-rvLoDdaxRB H3 {
-  text-align: right;
-  color: #0066cc;
+.cid-rw3e99ztDn .wrapper:before {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: 50%;
+  height: 3px;
+  right: 0;
 }
-.cid-rvLoDdaxRB .mbr-text,
-.cid-rvLoDdaxRB .mbr-section-btn {
-  text-align: right;
-  color: #f4b223;
+.cid-rw3e99ztDn .wrapper:after {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  height: 3px;
+  left: 0;
+}
+.cid-rw3e99ztDn img {
+  position: absolute;
+  left: 10%;
+  bottom: -45px;
+  width: 130px;
+}
+@media (max-width: 767px) {
+  .cid-rw3e99ztDn .wrapper {
+    padding: 1rem 1.5rem;
+  }
 }
 .cid-rvGQ5eM2F2 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pms-300-1920x1080.png");
 }
 .cid-rvGQ5eM2F2 .line {
   width: 35px;
@@ -2022,7 +2044,7 @@ body {
   color: #767676;
 }
 .cid-rvKHJEnBwp {
-  background-image: url("../../../assets/images/park-quote-1-1920x1080.jpg");
+  background-image: url("../../../assets/images/park-talking-2000x1333.jpg");
   background-position: right;
 }
 .cid-rvKHJEnBwp .wrapper {
@@ -2170,11 +2192,11 @@ body {
 .cid-rvQRUQNmcV {
   padding-top: 45px;
   padding-bottom: 75px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/484-2000x1335.jpg");
 }
 .cid-rvQRUQNmcV .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.4;
+  opacity: 0.7;
 }
 .cid-rvQRUQNmcV H4 {
   color: #0066cc;
