@@ -2177,6 +2177,107 @@ body {
 .cid-rvKSZARDw3 .price-term {
   color: #767676;
 }
+.cid-rwuPrjMQLX {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-rwuPrjMQLX .list-group-item {
+  padding: .5rem 3.25rem;
+}
+.cid-rwuPrjMQLX h4 {
+  margin: 0;
+}
+.cid-rwuPrjMQLX .btn-text {
+  margin: 0.3rem;
+  margin-bottom: 2rem;
+  padding: 0.6rem 2rem!important;
+}
+.cid-rwuPrjMQLX .line {
+  width: 35px;
+  height: 3px;
+  display: inline-block;
+  background: #f9b03e;
+  transition: background 0.3s;
+  margin-bottom: 1.5rem;
+}
+.cid-rwuPrjMQLX .btn-sm {
+  padding: 0.6rem 4.4rem;
+}
+.cid-rwuPrjMQLX .plan-body {
+  padding-bottom: 2rem;
+}
+.cid-rwuPrjMQLX .plan-header {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-rwuPrjMQLX .line1 {
+  background: #ed4266;
+}
+.cid-rwuPrjMQLX .line2 {
+  background: #255085;
+}
+.cid-rwuPrjMQLX .plan-wrapper {
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
+}
+.cid-rwuPrjMQLX .plan {
+  word-break: break-word;
+  position: relative;
+}
+.cid-rwuPrjMQLX .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-rwuPrjMQLX .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-rwuPrjMQLX .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-rwuPrjMQLX .plan-header,
+.cid-rwuPrjMQLX .plan-body {
+  background-color: #fff;
+}
+.cid-rwuPrjMQLX .price-figure {
+  font-weight: 700;
+}
+.cid-rwuPrjMQLX .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 767px) {
+  .cid-rwuPrjMQLX .md-pb {
+    margin-bottom: 2rem;
+  }
+  .cid-rwuPrjMQLX .price-figure {
+    font-size: 3rem;
+  }
+}
+.cid-rwuPrjMQLX .color1 {
+  color: #255085;
+}
+.cid-rwuPrjMQLX .color2 {
+  color: #ed4266;
+}
+.cid-rwuPrjMQLX LI {
+  color: #767676;
+}
+.cid-rwuPrjMQLX .price-term {
+  color: #767676;
+}
+.cid-rwuPrjMQLX .mbr-text,
+.cid-rwuPrjMQLX .mbr-section-btn {
+  color: #ebeced;
+}
 .cid-rvQO57sti3 {
   padding-top: 0px;
   padding-bottom: 30px;
