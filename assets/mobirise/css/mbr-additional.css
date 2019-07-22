@@ -2044,7 +2044,7 @@ body {
   color: #767676;
 }
 .cid-rvKHJEnBwp {
-  background-image: url("../../../assets/images/park-talking-2000x1333.jpg");
+  background-image: url("../../../assets/images/park-talking-1-2000x1333.jpg");
   background-position: right;
 }
 .cid-rvKHJEnBwp .wrapper {
@@ -2090,96 +2090,9 @@ body {
 .cid-rvKHJEnBwp .mbr-section-btn {
   color: #0066cc;
 }
-.cid-rvKSZARDw3 {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background: #f4b223;
-}
-.cid-rvKSZARDw3 .list-group-item {
-  padding: .5rem 3.25rem;
-}
-.cid-rvKSZARDw3 h4 {
-  margin: 0;
-}
-.cid-rvKSZARDw3 .btn-sm {
-  padding: 0.6rem 4.4rem;
-}
-.cid-rvKSZARDw3 .plan-body {
-  padding-bottom: 2rem;
-}
-.cid-rvKSZARDw3 .plan-header {
-  padding-top: 2rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-.cid-rvKSZARDw3 .line {
-  width: 35px;
-  height: 3px;
-  display: inline-block;
-  background: #0066cc;
-  transition: background 0.3s;
-  margin-bottom: 1.5rem;
-}
-.cid-rvKSZARDw3 .line2 {
-  background: #f4b223;
-}
-.cid-rvKSZARDw3 .plan {
-  word-break: break-word;
-  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
-  position: relative;
-  max-width: 300px;
-  padding-right: 0;
-  padding-left: 0;
-}
-.cid-rvKSZARDw3 .plan .list-group-item {
-  position: relative;
-  -webkit-justify-content: center;
-  justify-content: center;
-  border: 0;
-}
-.cid-rvKSZARDw3 .plan .list-group-item::after {
-  position: absolute;
-  bottom: 0;
-  left: 20%;
-  width: 60%;
-  height: 2px;
-  content: "";
-  background-color: #eaeaea;
-}
-.cid-rvKSZARDw3 .plan .list-group-item:last-child::after {
-  display: none;
-}
-.cid-rvKSZARDw3 .plan-header,
-.cid-rvKSZARDw3 .plan-body {
-  background-color: #fff;
-}
-.cid-rvKSZARDw3 .price-figure {
-  font-weight: 700;
-}
-.cid-rvKSZARDw3 .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-@media (max-width: 550px) {
-  .cid-rvKSZARDw3 .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rvKSZARDw3 .color1 {
-  color: #f4b223;
-}
-.cid-rvKSZARDw3 .color2 {
-  color: #0066cc;
-}
-.cid-rvKSZARDw3 LI {
-  color: #767676;
-}
-.cid-rvKSZARDw3 .price-term {
-  color: #767676;
-}
 .cid-rwuPrjMQLX {
   padding-top: 75px;
-  padding-bottom: 75px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/pms-300-1920x1080.png");
 }
 .cid-rwuPrjMQLX .list-group-item {
@@ -2197,7 +2110,7 @@ body {
   width: 35px;
   height: 3px;
   display: inline-block;
-  background: #f9b03e;
+  background: #0066cc;
   transition: background 0.3s;
   margin-bottom: 1.5rem;
 }
@@ -2213,10 +2126,10 @@ body {
   padding-right: 1rem;
 }
 .cid-rwuPrjMQLX .line1 {
-  background: #ed4266;
+  background: #0066cc;
 }
 .cid-rwuPrjMQLX .line2 {
-  background: #255085;
+  background: #0066cc;
 }
 .cid-rwuPrjMQLX .plan-wrapper {
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1);
@@ -2263,7 +2176,7 @@ body {
   }
 }
 .cid-rwuPrjMQLX .color1 {
-  color: #255085;
+  color: #0066cc;
 }
 .cid-rwuPrjMQLX .color2 {
   color: #ed4266;
@@ -2278,17 +2191,20 @@ body {
 .cid-rwuPrjMQLX .mbr-section-btn {
   color: #ebeced;
 }
+.cid-rwuPrjMQLX H2 {
+  color: #f4b223;
+}
 .cid-rvQO57sti3 {
   padding-top: 0px;
   padding-bottom: 30px;
-  background: linear-gradient(45deg, #ebeced, #f4b223);
+  background: linear-gradient(45deg, #255085, #0066cc);
 }
 .cid-rvQO57sti3 .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-rvQO57sti3 H3 {
   text-align: right;
-  color: #0066cc;
+  color: #f4b223;
 }
 .cid-rvQRUQNmcV {
   padding-top: 45px;
