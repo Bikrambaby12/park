@@ -1775,19 +1775,19 @@ body {
   }
 }
 .cid-rvKHJEnBwp {
-  background-image: url("../../../assets/images/lordes-back-people-2000x1333.jpg");
+  background-image: url("../../../assets/images/untitled-2-2000x1333.jpg");
   background-position: right;
 }
 .cid-rvKHJEnBwp .wrapper {
   position: relative;
-  border-top: 3px solid #ffffff;
-  border-right: 3px solid #ffffff;
-  border-left: 3px solid #ffffff;
+  border-top: 3px solid #410099;
+  border-right: 3px solid #410099;
+  border-left: 3px solid #410099;
   padding: 2.5rem 2.5rem;
 }
 .cid-rvKHJEnBwp .wrapper:before {
   content: "";
-  background: #ffffff;
+  background: #410099;
   position: absolute;
   bottom: 0;
   width: 50%;
@@ -1796,7 +1796,7 @@ body {
 }
 .cid-rvKHJEnBwp .wrapper:after {
   content: "";
-  background: #ffffff;
+  background: #410099;
   position: absolute;
   bottom: 0;
   width: 10%;
