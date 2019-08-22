@@ -50,10 +50,10 @@ body {
 }
 .display-7 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -643,13 +643,13 @@ a:hover {
   color: #767676;
   border: 3px solid #ebeced;
   font-family: 'Poppins', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 46px;
   padding: 0.5rem 1.2rem;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 .form-control:focus {
   outline: none;
@@ -1775,7 +1775,7 @@ body {
   }
 }
 .cid-rvKHJEnBwp {
-  background-image: url("../../../assets/images/untitled-2-2000x1333.jpg");
+  background-image: url("../../../assets/images/lordes-back-no-people-pur-1-2000x1333.png");
   background-position: right;
 }
 .cid-rvKHJEnBwp .wrapper {
@@ -1815,7 +1815,7 @@ body {
   }
 }
 .cid-rvKHJEnBwp H1 {
-  color: #410099;
+  color: #a4a0a0;
 }
 .cid-rvKHJEnBwp .mbr-text,
 .cid-rvKHJEnBwp .mbr-section-btn {
