@@ -1919,6 +1919,33 @@ body {
 .cid-rzDgYEY1n1 img {
   filter: invert(0.5);
 }
+.cid-rAtg9ZCyhQ {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/lake-palmdale-kmf-2000x1217.jpg");
+}
+.cid-rAtg9ZCyhQ .line {
+  width: 35px;
+  height: 3px;
+  display: inline-block;
+  background: #7e57c5;
+  transition: background 0.3s;
+}
+.cid-rAtg9ZCyhQ H2 {
+  color: #ffffff;
+}
+.cid-rAtg9ZCyhQ H3 {
+  color: #ffffff;
+}
+.cid-rAtg9ZCyhQ .mbr-text,
+.cid-rAtg9ZCyhQ .mbr-section-btn {
+  color: #ffffff;
+}
+@media (max-width: 992px) {
+  .cid-rAtg9ZCyhQ .md-pb {
+    padding-bottom: 2rem;
+  }
+}
 .cid-rwuPrjMQLX {
   padding-top: 75px;
   padding-bottom: 15px;
@@ -2365,33 +2392,33 @@ body {
 .cid-rvQYnfHTJj H2 {
   color: #ffffff;
 }
-.cid-rvKVoj8qYi {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #0066cc;
+.cid-rAtfogm1cE {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #003595;
 }
-.cid-rvKVoj8qYi .mbr-section-subtitle {
+.cid-rAtfogm1cE .mbr-section-subtitle {
   color: #ffffff;
   text-align: left;
 }
-.cid-rvKVoj8qYi .title {
+.cid-rAtfogm1cE .title {
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
-.cid-rvKVoj8qYi H2 {
+.cid-rAtfogm1cE H2 {
   margin: 0;
   width: 100%;
 }
-.cid-rvKVoj8qYi h3 {
+.cid-rAtfogm1cE h3 {
   width: 100%;
 }
 @media (max-width: 992px) {
-  .cid-rvKVoj8qYi .title {
+  .cid-rAtfogm1cE .title {
     margin-bottom: 2rem;
   }
-  .cid-rvKVoj8qYi .align-left,
-  .cid-rvKVoj8qYi .align-right {
+  .cid-rAtfogm1cE .align-left,
+  .cid-rAtfogm1cE .align-right {
     text-align: center;
   }
 }
