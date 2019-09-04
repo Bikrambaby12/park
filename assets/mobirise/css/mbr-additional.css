@@ -1775,7 +1775,9 @@ body {
   }
 }
 .cid-rvKHJEnBwp {
-  background-image: url("../../../assets/images/lourdes-top-revised-4-2000x1333.jpg");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/lourdes-top-revised-9-2000x1333.jpg");
   background-position: right;
 }
 .cid-rvKHJEnBwp .wrapper {
@@ -1815,7 +1817,7 @@ body {
   }
 }
 .cid-rvKHJEnBwp H1 {
-  color: #7e57c5;
+  color: #ffffff;
 }
 .cid-rvKHJEnBwp .mbr-text,
 .cid-rvKHJEnBwp .mbr-section-btn {
