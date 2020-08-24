@@ -50,7 +50,8 @@
     "imageResize": true,
     "uniqCompNum": 20,
     "versionPublish": "5.0.29",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -619,7 +620,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -631,7 +633,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#002554\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eba900\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>The District’s colleges, Santa Ana College and Santiago Canyon College, are incredibly diverse and serve a variety of needs. Every year, thousands of students transfer to four-year institutions, future first responders train at Santa Ana College’s Fire Academy, and one-fifth of the students are over 35.<br><br><div>Whether you are a retiree committed to lifelong learning, a first-generation immigrant taking ESL classes, a working adult looking to gain technical skills or a recent high school graduate, my mission is to make the Rancho Santiago Community College District an affordable and quality institution for higher education that promotes personal and professional development. I hope to earn your vote.</div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#002554\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eba900\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>The District’s colleges, Santa Ana College and Santiago Canyon College, are incredibly diverse and serve a variety of needs. Every year, thousands of students transfer to four-year institutions, future first responders train at Santa Ana College’s Fire Academy, and one-fifth of the students are over 35.<br><br><div>Whether you are a retiree committed to lifelong learning, a first-generation immigrant taking ESL classes, a working adult looking to gain technical skills or a recent high school graduate, my mission is to make the Rancho Santiago Community College District an affordable and quality institution for higher education that promotes personal and professional development. </div><br><br><div><b>I hope to earn your vote.</b></div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "s8wwW6aB6w",
           "_anchor": "content10-7",
           "_protectedParams": [],
