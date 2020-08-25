@@ -25,7 +25,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -1283,6 +1283,9 @@ section.lazy-placeholder:after {
   .cid-s8wAGY4p0O .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-s8wAGY4p0O .plan-title {
+  color: #002554;
 }
 .cid-s8wCRFJDzi {
   padding-top: 75px;
