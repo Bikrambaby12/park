@@ -692,6 +692,43 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.5;
 }
+.cid-s94uVDUBLr {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s94uVDUBLr .line {
+  width: 35px;
+  height: 3px;
+  display: inline-block;
+  background: #ff8300;
+  transition: background 0.3s;
+  margin-bottom: 2rem;
+}
+.cid-s94uVDUBLr H2 {
+  color: #be1e2d;
+}
+.cid-s94uVDUBLr H3 {
+  color: #36404c;
+}
+.cid-s94uVDUBLr .mbr-text,
+.cid-s94uVDUBLr .mbr-section-btn {
+  color: #767676;
+}
+.cid-s94uVDUBLr .photo {
+  width: 90%;
+}
+@media (max-width: 992px) {
+  .cid-s94uVDUBLr .md-pb {
+    padding-bottom: 2rem;
+  }
+  .cid-s94uVDUBLr .photo {
+    width: 100%;
+  }
+}
+.cid-s94uVDUBLr .signature {
+  filter: invert(0.5);
+}
 .cid-s94nd34ngT .navbar {
   background: #923a7f;
   transition: none;
@@ -1129,49 +1166,6 @@ section.lazy-placeholder:after {
     margin-left: 5rem;
   }
 }
-.cid-s94nggSM9s {
-  background-image: url("../../../assets/images/aarti-header-1920x1080.jpg");
-  background-position: right;
-}
-.cid-s94nggSM9s .wrapper {
-  position: relative;
-  border-top: 3px solid #ffffff;
-  border-right: 3px solid #ffffff;
-  border-left: 3px solid #ffffff;
-  padding: 2.5rem 2.5rem;
-}
-.cid-s94nggSM9s .wrapper:before {
-  content: "";
-  background: #ffffff;
-  position: absolute;
-  bottom: 0;
-  width: 50%;
-  height: 3px;
-  right: 0;
-}
-.cid-s94nggSM9s .wrapper:after {
-  content: "";
-  background: #ffffff;
-  position: absolute;
-  bottom: 0;
-  width: 10%;
-  height: 3px;
-  left: 0;
-}
-.cid-s94nggSM9s img {
-  position: absolute;
-  left: 10%;
-  bottom: -45px;
-  width: 130px;
-}
-@media (max-width: 767px) {
-  .cid-s94nggSM9s .wrapper {
-    padding: 1rem 1.5rem;
-  }
-}
-.cid-s94nggSM9s H1 {
-  color: #923a7f;
-}
 .cid-s94uksRRZB {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1260,42 +1254,48 @@ section.lazy-placeholder:after {
     padding: 0 1rem;
   }
 }
-.cid-s94uVDUBLr {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-s94nggSM9s {
+  background-image: url("../../../assets/images/aarti-header-1920x1080.jpg");
+  background-position: right;
 }
-.cid-s94uVDUBLr .line {
-  width: 35px;
+.cid-s94nggSM9s .wrapper {
+  position: relative;
+  border-top: 3px solid #ffffff;
+  border-right: 3px solid #ffffff;
+  border-left: 3px solid #ffffff;
+  padding: 2.5rem 2.5rem;
+}
+.cid-s94nggSM9s .wrapper:before {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: 50%;
   height: 3px;
-  display: inline-block;
-  background: #ff8300;
-  transition: background 0.3s;
-  margin-bottom: 2rem;
+  right: 0;
 }
-.cid-s94uVDUBLr H2 {
-  color: #be1e2d;
+.cid-s94nggSM9s .wrapper:after {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  height: 3px;
+  left: 0;
 }
-.cid-s94uVDUBLr H3 {
-  color: #36404c;
+.cid-s94nggSM9s img {
+  position: absolute;
+  left: 10%;
+  bottom: -45px;
+  width: 130px;
 }
-.cid-s94uVDUBLr .mbr-text,
-.cid-s94uVDUBLr .mbr-section-btn {
-  color: #767676;
-}
-.cid-s94uVDUBLr .photo {
-  width: 90%;
-}
-@media (max-width: 992px) {
-  .cid-s94uVDUBLr .md-pb {
-    padding-bottom: 2rem;
-  }
-  .cid-s94uVDUBLr .photo {
-    width: 100%;
+@media (max-width: 767px) {
+  .cid-s94nggSM9s .wrapper {
+    padding: 1rem 1.5rem;
   }
 }
-.cid-s94uVDUBLr .signature {
-  filter: invert(0.5);
+.cid-s94nggSM9s H1 {
+  color: #923a7f;
 }
 .cid-s94uoswRf3 {
   padding-top: 60px;
