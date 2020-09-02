@@ -1440,6 +1440,24 @@ section.lazy-placeholder:after {
 .cid-s9sPit9u0k .card-subtitle {
   color: #ed4266;
 }
+.cid-s9shKaX99D {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #1954a0;
+}
+.cid-s9shKaX99D .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-s9shKaX99D H1 {
+  color: #ffffff;
+}
+.cid-s9shKaX99D P {
+  color: #ffffff;
+}
+.cid-s9shKaX99D LABEL {
+  color: #c1c1c1;
+}
 .cid-s9smm5FeK5 {
   padding-top: 90px;
   padding-bottom: 60px;
@@ -1497,24 +1515,6 @@ section.lazy-placeholder:after {
 }
 .cid-s9smm5FeK5 .plan-title {
   color: #ed1c24;
-}
-.cid-s9shKaX99D {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #1954a0;
-}
-.cid-s9shKaX99D .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-s9shKaX99D H1 {
-  color: #ffffff;
-}
-.cid-s9shKaX99D P {
-  color: #ffffff;
-}
-.cid-s9shKaX99D LABEL {
-  color: #c1c1c1;
 }
 .cid-s9shomH5W6 {
   background-image: url("../../../assets/images/robert-tucker-yardsign-back-1920x1080.png");
